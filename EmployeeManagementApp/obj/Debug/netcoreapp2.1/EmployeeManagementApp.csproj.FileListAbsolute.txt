@@ -1,0 +1,16 @@
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\bin\Debug\netcoreapp2.1\EmployeeManagementApp.deps.json
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\bin\Debug\netcoreapp2.1\EmployeeManagementApp.runtimeconfig.json
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\bin\Debug\netcoreapp2.1\EmployeeManagementApp.runtimeconfig.dev.json
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\bin\Debug\netcoreapp2.1\EmployeeManagementApp.dll
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\bin\Debug\netcoreapp2.1\EmployeeManagementApp.pdb
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.1\EmployeeManagementApp.csproj.AssemblyReference.cache
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.1\EmployeeManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.1\EmployeeManagementApp.AssemblyInfoInputs.cache
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.1\EmployeeManagementApp.AssemblyInfo.cs
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.1\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.1\EmployeeManagementApp.RazorAssemblyInfo.cache
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.1\EmployeeManagementApp.RazorAssemblyInfo.cs
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.1\EmployeeManagementApp.RazorTargetAssemblyInfo.cache
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.1\EmployeeManagementApp.dll
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.1\EmployeeManagementApp.pdb
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.1\EmployeeManagementApp.genruntimeconfig.cache
