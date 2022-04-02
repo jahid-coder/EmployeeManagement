@@ -35,24 +35,16 @@ namespace EmployeeManagementApp
                 app.UseDeveloperExceptionPage();
             }
 
-            app.Use(async (context,next) =>
-            {
-                logger.LogInformation("MW1 : Incoming Response");
-                await next();
-                logger.LogInformation("MW1 : Outgonig  Response");
-            });
+            DefaultFilesOptions defaultFilesOptions = new DefaultFilesOptions();
+            defaultFilesOptions.DefaultFileNames.Clear();
+            defaultFilesOptions.DefaultFileNames.Add("foo.html");
 
-            app.Use(async (context, next) =>
-            {
-                logger.LogInformation("MW2 : Incoming Response");
-                await next();
-                logger.LogInformation("MW2 : Outgonig  Response");
-            });
-
+            app.UseDefaultFiles(defaultFilesOptions);
+            app.UseStaticFiles();
+           
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("MW3 : Response handled and response produced");
-                logger.LogInformation("MW3 : Response handled and response produced");
+                await context.Response.WriteAsync("Hello world");
             });
         }
     }
