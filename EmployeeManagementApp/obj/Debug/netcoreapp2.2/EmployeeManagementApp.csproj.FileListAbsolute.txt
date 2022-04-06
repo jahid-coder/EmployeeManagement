@@ -16,3 +16,12 @@ D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcore
 D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\EmployeeManagementApp.dll
 D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\EmployeeManagementApp.pdb
 D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\EmployeeManagementApp.genruntimeconfig.cache
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\bin\Debug\netcoreapp2.2\EmployeeManagementApp.Views.dll
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\bin\Debug\netcoreapp2.2\EmployeeManagementApp.Views.pdb
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\EmployeeManagementApp.TagHelpers.input.cache
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\EmployeeManagementApp.TagHelpers.output.cache
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\EmployeeManagementApp.RazorCoreGenerate.cache
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\EmployeeManagementApp.RazorTargetAssemblyInfo.cs
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\EmployeeManagementApp.Views.pdb
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\EmployeeManagementApp.csproj.CopyComplete
