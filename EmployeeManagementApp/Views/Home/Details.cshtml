@@ -1,21 +1,23 @@
-﻿@model EmployeeManagementApp.Models.Employee
+﻿@model EmployeeManagementApp.ViewModels.HomeDetailsViewModel
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <title></title>
-</head>
-<body>
-    <h3>@ViewBag.PageTitle</h3>
-   
-    <div>
-        Name : @Model.Name
-    </div>
-    <div>
-        Email : @Model.Email
-    </div>
-    <div>
-        Department : @Model.Department
-    </div>
+@{
+    Layout = "~/views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Empoyee  Details";
+}
 
-</body>
-</html>
+<h3>@Model.PageTitle</h3>
+
+<div>
+    Name : @Model.Employee.Name
+</div>
+<div>
+    Email : @Model.Employee.Email
+</div>
+<div>
+    Department : @Model.Employee.Department
+</div>
+
+@section Scripts{ 
+    <script src="~/js/CustomScript.js"></script>
+}
+

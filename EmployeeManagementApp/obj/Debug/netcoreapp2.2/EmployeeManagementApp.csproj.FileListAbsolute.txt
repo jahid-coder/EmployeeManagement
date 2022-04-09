@@ -25,3 +25,5 @@ D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcore
 D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\EmployeeManagementApp.RazorTargetAssemblyInfo.cs
 D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\EmployeeManagementApp.Views.pdb
 D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\EmployeeManagementApp.csproj.CopyComplete
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
