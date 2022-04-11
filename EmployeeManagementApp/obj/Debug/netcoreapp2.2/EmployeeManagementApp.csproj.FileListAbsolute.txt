@@ -30,3 +30,4 @@ D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcore
 D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
 D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\_ViewStart.cshtml.g.cs
 D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Git ShowUp Prodect\EmployeeManagement\EmployeeManagementApp\bin\Debug\netcoreapp2.2\libman.json
